@@ -1,5 +1,3 @@
-const divideNum = (num, divisor) => {
-  return num / divisor;
+const divideNum = (a, b) => {
+  return a / b;
 };
-
-exports = { divideNum };
